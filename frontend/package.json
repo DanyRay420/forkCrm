@@ -27,7 +27,7 @@
     "redux-thunk": "2.4.1",
     "reselect": "4.1.5",
     "web-vitals": "1.0.1",
-    "@craco/craco": "5.5.0",
+    "@craco/craco": "5.9.0",
     "craco-alias": "3.0.1",
     "craco-less": "1.17.1",
     "cross-env": "7.0.3"
